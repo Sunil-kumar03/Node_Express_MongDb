@@ -1,0 +1,8 @@
+this module is about zlib
+zlib provides =>The Zlib module provides a way of zip and unzip files.
+syntax of zlib =>  var zlib = require('zlib');
+this is a built in module
+in node js there are 3 types of modules
+1. built in modules
+2. custom modules
+3. third party modules (npm packages)
